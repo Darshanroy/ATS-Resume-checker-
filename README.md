@@ -1,0 +1,2 @@
+# ATS Friendly resume checker
+
